@@ -1,0 +1,38 @@
+Class 3 Assignment
+
+
+
+Four Page Site that Uses CSS, .classes, and styled navigation (pseudo classes)
+
+
+What is the Website about?
+
+
+The subject of this website is Quentin Tarantino movies.
+
+
+
+Page 1: Index
+
+
+
+This Page contains informatino about Quentin Tarantino, who he is, what he is known for and the impact of his movies.
+
+Contains navigation to three of his top movies
+
+
+
+
+Page 2: Inglourious Basterds (2009)
+
+
+
+
+Page 3: Pulp Fiction (1994)
+
+
+
+
+Page 4: Django Unchained (2012)
+
+

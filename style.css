@@ -1,0 +1,187 @@
+body {
+
+background-image: url(westerntexture.jpg);
+width: 99%;
+}
+
+
+
+@font-face {
+    font-family: Western;
+    src: url(fonts/WEST____.TTF);
+}
+
+
+.illustratednavigation {
+
+    display: flex;
+
+}
+
+
+nav {
+
+margin-bottom: 25px;
+
+}
+
+.nav1 {
+
+font-family: Western;
+font-size: 40px;
+color: white;
+margin-left: 45%;
+
+
+
+}
+
+
+button {
+
+background-color: transparent;
+border: none;
+
+}
+
+button:hover img{
+
+opacity: 0.5;
+}
+
+
+.imgrd   {
+
+    width: 40%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: white;
+    
+    }
+
+.rdframe {
+
+width: 50%;
+height: auto;
+margin-left: 25%;
+border-radius: 10px;
+border-style:ridge;
+border-width: 5px;
+
+
+}
+.imgpf {
+
+    width: 40%;
+    margin-left: 5%;
+    
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: red;
+
+
+}
+
+
+.pfframe1 {
+
+
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    border-radius: 10px;
+    border-style:ridge;
+    border-width: 5px;
+
+}
+
+.imgqt {
+
+width: 150%;
+margin-left: -25%;
+margin-top: 2.5%;
+border-style: solid;
+border-radius: 50px;
+border-width: 5px;
+
+}
+
+
+
+.imgib  {
+
+width: 40%;
+margin-left: 0%;
+margin-bottom: 5%;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+border-color: orange;
+}
+
+
+.ibframe1 {
+
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    border-radius: 10px;
+    border-style:ridge;
+    border-width: 5px;
+
+
+}
+
+.imgdu  {
+
+
+    width: 40%;
+    margin-left: 0%;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: brown;
+
+}
+
+
+.duframe1 {
+
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    border-radius: 10px;
+    border-style:ridge;
+    border-width: 5px;
+
+}
+
+h1 {
+
+font-family: Western;
+text-align: center;
+font-size: 125px;
+color: burlywood;
+    
+}
+
+.main {
+padding: 5%;
+column-count: 3;
+column-rule-style:double;
+font-family: Western;
+color:black;
+font-size: 25px;
+
+}
+
+
+.bigcharacter {
+
+    font-size: 50px;
+    
+    }
